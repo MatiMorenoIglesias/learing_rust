@@ -1,0 +1,3 @@
+# Guessing Game
+
+- En esta seccion se crea un juego llamado [Guessing Game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html). La temática es adivinar un número aleatorio entre 1 y 100. En este juego, tenemos intentos ilimitados. Si adivinamos el número, terminamos el juego obteniendo la victoria; de lo contrario, el programa nos irá ayudando con un mensaje en donde nos dirá si debemos agregar un número superior o inferior al intento anterior.
